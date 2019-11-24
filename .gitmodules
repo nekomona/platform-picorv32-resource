@@ -1,0 +1,6 @@
+[submodule "framework-arduino-picorv32"]
+	path = framework-arduino-picorv32
+	url = https://github.com/nekomona/framework-arduino-picorv32
+[submodule "tool-pico-serialisp"]
+	path = tool-pico-serialisp
+	url = https://github.com/nekomona/tool-pico-serialisp
