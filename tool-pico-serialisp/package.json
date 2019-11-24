@@ -1,0 +1,6 @@
+{
+    "name": "tool-pico-serialisp",
+    "description": "Serial ISP flasher for picorv32 with spimemio",
+    "version": "0.0.1",
+    "url": "https://github.com/sipeed/Maixduino"
+}
