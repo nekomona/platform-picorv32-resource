@@ -4,3 +4,6 @@
 [submodule "tool-pico-serialisp"]
 	path = tool-pico-serialisp
 	url = https://github.com/nekomona/tool-pico-serialisp
+[submodule "toolchain-rv32i-windows_x86"]
+	path = toolchain-rv32i-windows_x86
+	url = https://github.com/nekomona/toolchain-rv32i-windows_x86
